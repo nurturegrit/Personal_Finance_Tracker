@@ -1,0 +1,9 @@
+The backend directory contains all the server-side code. Contents:
+-- Django Project Files
+-- Django Apps
+-- Models
+-- Views
+-- URL configurations
+-- Serializers (for API)
+-- Business Logic
+-- Database Migrations

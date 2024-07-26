@@ -1,0 +1,7 @@
+The frontend directory houses all client-side code. Contents:
+-- React Application
+-- Components
+-- State Management(e.g. Redux Store)
+-- Styles (CSS or SASS files)
+-- Static assets (Images, fonts)
+-- API Integration Code

@@ -1,0 +1,6 @@
+This directory contains all types of tests and test data :
+-- Unit Tests
+-- Integration Tests
+-- End To End Tests
+-- Test Configuration
+-- Test Fixtures and Mock Data

@@ -1,0 +1,4 @@
+The utils directory stores:
+-- Helper Functions
+-- Custom Decorators
+-- Reusable Code Snippets

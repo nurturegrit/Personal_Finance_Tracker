@@ -1,0 +1,7 @@
+The docs directory stores all project documentation. Contents:
+- API Documentation
+- Architecture Diagrams
+- User Guides
+- Developer Guides
+- Database Schema Documentation
+- Setup and Deployment Instructions
